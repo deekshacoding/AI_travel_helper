@@ -3,6 +3,6 @@ python-dotenv>=1.0.0
 requests>=2.32.0
 beautifulsoup4==4.15.0
 duckduckgo-search>=6.1.0
-langchain>=0.3.0
-langchain-google-genai>=2.0.0
-langchain-groq>=0.1.0
+langchain==0.3.0
+langchain-google-genai==2.0.0
+langchain-groq==0.1.0
