@@ -116,8 +116,7 @@ Return the answer in Markdown with the following sections:
 1. Overview
 2. Top tourist destinations
 3. Best time to visit
-4. Famous 4 to 5 star hotels (list only well-known hotel names that are typically 4 to 5 stars; if unsure, say so)
-5. Travel tips
+4. Travel tips
 
 Keep the answer practical and useful for a traveler.
 
@@ -164,7 +163,7 @@ def render_landing_page() -> None:
         <h3>What this app does</h3>
         <ul>
             <li>Researches any destination using Gemini, DuckDuckGo, and web scraping.</li>
-            <li>Highlights tourist spots and hotels rated 4 stars and above.</li>
+            <li>Highlights tourist spots
             <li>Provides a fast travel chatbot on the side using Groq.</li>
         </ul>
         </div>
