@@ -79,7 +79,7 @@ An intelligent **AI-powered Travel Research Agent** built with **Python**, **Str
 ```
 Travel-Research-Agent/
 │
-├── langchain_research.py
+├── ai_travel_helper.py
 ├── requirements.txt
 ├── README.md
 ```
